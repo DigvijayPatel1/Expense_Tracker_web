@@ -28,10 +28,10 @@ A simple and elegant web-based Expense Tracker that allows users to add, view, a
 
 ## File Structure
 
-<!-- expense-tracker/
+expense-tracker/
 ├── index.html # Main HTML file
 ├── style.css # Styling for the app
-└── script.js # JavaScript logic -->
+└── script.js # JavaScript logic
 
 ## Getting Started
 
